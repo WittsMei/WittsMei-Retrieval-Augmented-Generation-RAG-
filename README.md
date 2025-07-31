@@ -40,7 +40,10 @@ Other data not available in the model: For a chatbot this often includes knowled
 - **Vector search** uses vectors (lists of numbers) to represent and search content.
 <img width="1644" height="784" alt="558fce5b-0157-4b56-bfee-2de9651b66bf" src="https://github.com/user-attachments/assets/849aa3a8-3a11-41fa-9f57-94303498b73b" />
 
-- Three steps: 1. Encode the data   2. Index the data   3. Search the data
+- Three steps:
+  1. Encode the data
+  2. Index the data
+  3. Search the data
 
 
 
