@@ -41,9 +41,8 @@ Other data not available in the model: For a chatbot this often includes knowled
 <img width="1644" height="784" alt="558fce5b-0157-4b56-bfee-2de9651b66bf" src="https://github.com/user-attachments/assets/849aa3a8-3a11-41fa-9f57-94303498b73b" />
 
 - Three steps:
-  1. Encode the data
-  2. Index the data
-  3. Search the data
+<img width="1014" height="326" alt="74593d81-9ed9-4ae2-8a08-03cfe9911ec9" src="https://github.com/user-attachments/assets/a397f5b7-3e23-427e-92aa-8b8dc72dd119" />
+
 
 
 
