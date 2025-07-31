@@ -1,6 +1,9 @@
 # WittsMei-Retrieval-Augmented-Generation-RAG-
 
-- A powerful method for improving your responses is retrieval augmented generation(opens in a new tab), also referred to as RAG. With RAG, you modify the prompt to provide extra data to the model. No fine tuning of the model is required.
+### Retrieval augmented generation (RAG) 
+- Retrieval augmented generation (RAG) is a technique for improving the quality of LLM output by grounding it with sources of knowledge not available in the trained model.
+
+- With RAG, you modify the prompt to provide extra data to the model. No fine tuning of the model is required.
 
 - This extra data can include **proprietary data** that is not part of the foundation model. For example, Gemini has been trained against public data, so your organization's knowledge bases and other private data is not a part of the Gemini model.
 
