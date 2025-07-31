@@ -12,9 +12,9 @@
 1. Data retrieval
 An LLM typically does not include user data when it is being trained. **User data is dynamic**, which usually means that a trained LLM cannot have the most up-to-date data. More importantly, **user data is sensitive**, and you do not want an LLM to be able to provide user data to a different user in its responses.
 
-In addition, **foundation models are not trained with proprietary data**, like knowledge bases and document stores. For example, when you send a prompt directly to Gemini, you cannot ask Gemini for information that is not available on the internet.
+   In addition, **foundation models are not trained with proprietary data**, like knowledge bases and document stores. For example, when you send a prompt directly to Gemini, you cannot ask Gemini for information that is not    available on the internet.
 
-This data can be retrieved and provided to the model as part of the prompt.
+   This data can be retrieved and provided to the model as part of the prompt.
 
 2. Augmented prompt
 In addition to the user's query and the guidance provided to the model, the prompt is augmented with the retrieved data. The prompt instructs the model to trust the retrieved data, and the model can also be asked to ground the data by providing references or links to the data so the user can access the full document.
