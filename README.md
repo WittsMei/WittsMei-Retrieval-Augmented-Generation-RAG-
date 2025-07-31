@@ -32,6 +32,9 @@ Other data not available in the model: For a chatbot this often includes knowled
 
 ### Retrieving relevant data: Semantic search
 - **Semantic search** attempts to provide results that are guided by the meaning of the query, not by directly matching the words in the query.
+- Traditionally, most searches performed by applications have been keyword searches. A keyword search looks for text matches to find matching content. For example, in a database, you might search for a category with one or more specific values:
+  <img width="1540" height="242" alt="560105e5-594a-4793-bf5a-d8a466b770e4" src="https://github.com/user-attachments/assets/4bc48a36-a7e9-478b-bfb5-3a5818ebf603" />
+
 
 
 
