@@ -29,3 +29,13 @@ The model uses all of the information in the prompt (including the retrieved dat
 
 - User data: For a chatbot this is the data associated with the user providing the query.
 Other data not available in the model: For a chatbot this often includes knowledge base data or relevant documents that are not available on the internet.
+
+### Retrieving relevant data: Semantic search
+- **Semantic search** attempts to provide results that are guided by the meaning of the query, not by directly matching the words in the query.
+
+
+
+
+
+
+
