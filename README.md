@@ -36,7 +36,9 @@ Other data not available in the model: For a chatbot this often includes knowled
   <img width="1540" height="242" alt="560105e5-594a-4793-bf5a-d8a466b770e4" src="https://github.com/user-attachments/assets/4bc48a36-a7e9-478b-bfb5-3a5818ebf603" />
 
 
-
+### Retrieving relevant data: Vector search
+- Vector search uses vectors (lists of numbers) to represent and search content.
+- Three steps: 1. Encode the data   2. Index the data   3. Search the data
 
 
 
