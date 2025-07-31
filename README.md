@@ -23,3 +23,9 @@ In addition to the user's query and the guidance provided to the model, the prom
 The model uses all of the information in the prompt (including the retrieved data) to generate the response.
 <img width="1276" height="554" alt="791af063-ca05-4193-bc83-2c9a81140205" src="https://github.com/user-attachments/assets/e185ea73-59ff-45ea-a66d-7d8be416a3dc" />
 
+### Retrieving data for RAG
+
+- The "retrieval" in retrieval augmented generation allows the model to use data that is not available in the model itself. RAG is typically used to provide two types of data to the model in the prompt:
+
+- User data: For a chatbot this is the data associated with the user providing the query.
+Other data not available in the model: For a chatbot this often includes knowledge base data or relevant documents that are not available on the internet.
