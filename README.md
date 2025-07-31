@@ -37,7 +37,7 @@ Other data not available in the model: For a chatbot this often includes knowled
 
 
 ### Retrieving relevant data: Vector search
-- Vector search uses vectors (lists of numbers) to represent and search content.
+- **Vector search** uses vectors (lists of numbers) to represent and search content.
 - Three steps: 1. Encode the data   2. Index the data   3. Search the data
 
 
