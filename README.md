@@ -41,7 +41,8 @@ Other data not available in the model: For a chatbot this often includes knowled
 <img width="1644" height="784" alt="558fce5b-0157-4b56-bfee-2de9651b66bf" src="https://github.com/user-attachments/assets/849aa3a8-3a11-41fa-9f57-94303498b73b" />
 
 - Three steps:
-![Uploading d20adb0b-8e9e-438b-acfc-5bae8240e267.png…]()
+<img width="1708" height="316" alt="7e641881-a749-4ea1-9fd8-bd198b7c9e83" src="https://github.com/user-attachments/assets/422e477e-f7c3-4a47-83b4-c7778a7d8245" />
+
 
 
 
