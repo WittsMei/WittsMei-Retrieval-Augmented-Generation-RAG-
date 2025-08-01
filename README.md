@@ -44,6 +44,42 @@ Other data not available in the model: For a chatbot this often includes knowled
 <img width="1708" height="316" alt="7e641881-a749-4ea1-9fd8-bd198b7c9e83" src="https://github.com/user-attachments/assets/422e477e-f7c3-4a47-83b4-c7778a7d8245" />
 
 
+## Why Use RAG?
+
+#### Large language models (LLMs) are powerful, but:
+
+- They don’t know private company data
+
+- Their training data may be outdated
+
+- They can hallucinate (make things up)
+
+- RAG helps solve this by feeding the model real-time, accurate, and custom information from trusted sources.
+
+## Example:
+#### Imagine you ask:
+
+- “What’s our company’s refund policy?”
+
+#### Instead of answering based on general knowledge, a RAG system can:
+
+- Retrieve the latest version of your internal refund policy (e.g., from a PDF or Notion page)
+
+- Generate a specific, accurate response using that exact text
+
+## Common Use Cases:
+- Internal chatbot assistants
+
+- Customer support automation
+
+- Document Q&A systems
+
+- Legal and compliance research
+
+- Personalized search engines
+
+
+
 
 
 
